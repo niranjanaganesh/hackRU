@@ -25,7 +25,7 @@ public class FirstAidMain extends Game {
 		batch.begin();
 		batch.end();
 	}
-	
+	/*I like cake*/
 	@Override
 	public void dispose () {
 		batch.dispose();
